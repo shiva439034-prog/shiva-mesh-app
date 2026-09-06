@@ -15,3 +15,9 @@ android.sdk = 31
 android.ndk = 25b
 p4s.branch = master
 android.accept_sdk_license = True
+icon.filename = 
+presplash.filename = 
+requirements.source_branch = main
+# Force Python 3.11 for stability
+osx.python_version = 3
+android.python_version = 3.11
